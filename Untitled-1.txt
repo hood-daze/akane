@@ -1,7 +1,0 @@
-自作小説をPRするためのホームページです。
-静的なサイトなのですが、勉強目的でモダンなJavaScriptライブラリを利用しました。
-
-本アプリで工夫したところについて。
-Reactを使って、SPAの遷移をするさいリロードが行われないようにしました。
-
-成果物のURLはこちらです。https://play.google.com/store/search?q=pub%3Ahood&c=apps&hl=ja
