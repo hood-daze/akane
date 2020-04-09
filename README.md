@@ -5,4 +5,4 @@
 本アプリで工夫したところについて。
 Reactを使って、SPAの遷移をするさいリロードが行われないようにしました。
 
-成果物のURLはこちらです。
+成果物のURLはこちらです。https://hood-daze.github.io/akane/

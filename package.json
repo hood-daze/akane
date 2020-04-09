@@ -4,7 +4,7 @@
   "description": "Material Kit React. Coded by Creative Tim",
   "private": true,
   "main": "dist/index.js",
-  "homepage": "https://hood-daze.github.io/yuyake-site",
+  "homepage": "https://hood-daze.github.io/akane",
   "dependencies": {
     "@material-ui/core": "4.1.0",
     "@material-ui/icons": "4.1.0",
@@ -38,7 +38,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d ibuld",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
