@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "954b2a34dfc06f6cefd63c0b007a5645",
+    "revision": "db9a804ebe9e0b8c6514b0c00e1a9028",
     "url": "/akane/index.html"
   },
   {
-    "revision": "b1cfc919bb9a286a80be",
+    "revision": "e2dbf63d3ad805672946",
     "url": "/akane/static/css/main.60640070.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/akane/static/js/2.80b3cc8c.chunk.js"
   },
   {
-    "revision": "b1cfc919bb9a286a80be",
-    "url": "/akane/static/js/main.c24fd6f8.chunk.js"
+    "revision": "e2dbf63d3ad805672946",
+    "url": "/akane/static/js/main.5f274748.chunk.js"
   },
   {
     "revision": "9b6de8e038d14afac389",
